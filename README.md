@@ -1,6 +1,6 @@
 # Sales Analysis Power BI Dashboard
 
-![Dashboard Preview](powerbi.jpg)
+![Dashboard Preview](power bi.jpg)
 
 ## About
 This repository contains a Sales Analysis Power BI dashboard created for a local Ecommerce store to track and analyze their online sales across India. The dashboard provides interactive visualizations and customized filters for a comprehensive analysis of sales data.
